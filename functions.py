@@ -1,9 +1,9 @@
 import random
 import string
 
-#Exo 3 : kreye yon fonksyon ki pou jenere yon kòd
+"""Exo 3 : kreye yon fonksyon ki pou jenere yon kòd
 aleyatwa ki gen n karaktè alfabetik, san
-repetisyon.
+repetisyon."""
 
 alphabet = string.ascii_lowercase
 def  unique_alphabetical (length):
