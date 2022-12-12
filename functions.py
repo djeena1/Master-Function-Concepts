@@ -63,7 +63,6 @@ ak yon tire.
 "0-11-14" """
 
 def crypt(word):
-    """ """
     position = []
     for char in word.upper():
         position.append(str(string.ascii_uppercase.index(char)))   
