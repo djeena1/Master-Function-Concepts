@@ -86,7 +86,7 @@ def decrypt(word):
 # Exo 9
 """Kreye yon fonksyon ki ap pran 2 paramèt, epi ki
 pèmite valè yo. Answit li retounen tou 2 valè yo
-sou föm Tuple."""
+sou fòm Tuple."""
 
 def Permutation (a,b):
     return b, a
@@ -95,8 +95,7 @@ def Permutation (a,b):
 
 #Exo 10
 """Kreye yon fonksyon ki ap pran yon non an
-paramèt, epi ki retounen inisyal yo. Atansy' HT ≤
-non konpoze ak tirè yo."""
+paramèt, epi ki retounen inisyal yo. Atansyon ak non konpoze ak tirè yo."""
 
 def Initial (name):
     initial = ""
