@@ -50,7 +50,7 @@ def slug(chenn):
 """Kreye yon fonksyon ki ap separe chak lèt nan yon
 mo ak yon vigil"""      
                  
-def Separate (word):
+def separate (word):
     return ",".join(list(word))
 
 
@@ -88,7 +88,7 @@ def decrypt(word):
 pèmite valè yo. Answit li retounen tou 2 valè yo
 sou fòm Tuple."""
 
-def Permutation (a,b):
+def permutation (a,b):
     return b, a
 
 
@@ -97,7 +97,7 @@ def Permutation (a,b):
 """Kreye yon fonksyon ki ap pran yon non an
 paramèt, epi ki retounen inisyal yo. Atansyon ak non konpoze ak tirè yo."""
 
-def Initial (name):
+def initial (name):
     initial = ""
     name= name.replace("-"," ")
     for i in name.split():
